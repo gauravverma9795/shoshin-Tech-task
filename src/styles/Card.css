@@ -1,0 +1,22 @@
+.card {
+    flex: 1;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+  }
+  
+  .card h4 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .card .value {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  .card .extra {
+    margin-top: 10px;
+    color: #666;
+  }
+  

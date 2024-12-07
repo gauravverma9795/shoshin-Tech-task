@@ -1,0 +1,30 @@
+/* Schedule Section Layout */
+.schedule-section {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .schedule-section h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .schedule-section table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .schedule-section table th,
+  .schedule-section table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .schedule-section table th {
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
